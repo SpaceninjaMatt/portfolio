@@ -4,7 +4,7 @@ modal-id: 4
 date: 2023-06-26
 img: 3DPrintLocker.png
 alt: image-alt
-project-date: summer 23
+project-date: Summer 23
 client: Florida Polytechnic Makerspace
 category: Mechanical Engineering
 description: Created a locker system that allows students to pick up prints at any time of the day by inputting their student ID onto a key pad. 

@@ -4,8 +4,8 @@ modal-id: 1
 date: 2023-06-26
 img: golfcart.jpg
 alt: image-alt
-project-date: June 2021
-client: Start Bootstrap
+project-date: June 2022
+client: ECE Department
 category: Electrical/Computer Engineering
 description: See Publishing - https://www.researchgate.net/publication/370621855_Drive-By-Wire_Conversion_of_an_Electric_Golf-Cart_for_Self-Driving_Vehicles_Research
 ---
