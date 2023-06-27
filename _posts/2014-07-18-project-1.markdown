@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Autonomous Golf Cart
 modal-id: 1
 date: 2023-06-26
 img: golfcart.jpg

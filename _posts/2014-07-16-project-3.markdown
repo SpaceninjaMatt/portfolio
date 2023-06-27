@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Lakeland Police Department Bracket
 modal-id: 3
 date: 2023-06-26
 img: LPD.jpg
