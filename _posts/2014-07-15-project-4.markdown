@@ -8,4 +8,5 @@ project-date: Summer 23
 client: Florida Polytechnic Makerspace
 category: Mechanical Engineering
 description: Created a locker system that allows students to pick up prints at any time of the day by inputting their student ID onto a key pad. 
+outcome: Students are happy, got to use my engineering skills to design a practical product that gets used everyday and will be around long after I am.
 ---

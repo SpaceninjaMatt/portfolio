@@ -8,4 +8,5 @@ project-date: Spring 2023
 client: Mechanical Lab Design
 category: Mechncial Engineering
 description: Low cost, high accuracy Torsion Tester
+outcome: Made a product for less than $100, learned how to transfer serial data into MATLAB, used NASA project timeline
 ---
