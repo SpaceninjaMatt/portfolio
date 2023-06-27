@@ -104,8 +104,17 @@ header .intro-text .name {
     font-weight: 700;
 }
 
-header .intro-text .skills {
+header .intro-text .degree {
     font-size: 1.25em;
+    font-weight: 300;
+}
+
+header .intro-text .graduation {
+    font-size: .75em;
+    font-weight: 300;
+}
+header .intro-text .skills {
+    font-size: 1em;
     font-weight: 300;
 }
 
