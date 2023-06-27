@@ -7,7 +7,8 @@ alt: image-alt
 project-date: June 2022
 client: ECE Department
 category: Electrical/Computer Engineering
-description: See Publishing - https://www.researchgate.net/publication/370621855_Drive-By-Wire_Conversion_of_an_Electric_Golf-Cart_for_Self-Driving_Vehicles_Research
+link: https://www.researchgate.net/publication/370621855_Drive-By-Wire_Conversion_of_an_Electric_Golf-Cart_for_Self-Driving_Vehicles_Research
+description: Full drive by wire conversion using a Rpi.
 outcome: Learned Python, got practical wiring experince, learned how to communicate ideas with non STEM people to have parts made, large mechatronics project.
 
 ---

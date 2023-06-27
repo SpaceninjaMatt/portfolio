@@ -17,8 +17,13 @@
             <hr class="star-primary">
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             {% if post.description %}
-            <p>{{ post.description }}</p>
+            <p><strong>Project Description: </strong>{{ post.description }}</p>
             <p><strong>Outcome: </strong>{{ post.outcome }}</p>
+            {% endif %}
+            {% if post.link %}
+            <a href=post.link class="btn btn-default">
+              <i class="fa fa-info" aria-hidden="true"></i> For More Info
+            </a>
             {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}
