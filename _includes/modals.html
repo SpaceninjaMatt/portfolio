@@ -18,9 +18,7 @@
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             {% if post.description %}
             <p>{{ post.description }}</p>
-            <li> <strong>Outcome</strong>:
-              <p>{{ post.outcome }}</p>
-            </li>
+            <p><strong>Outcome: </strong>{{ post.outcome }}</p>
             {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}
