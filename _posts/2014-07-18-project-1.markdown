@@ -4,6 +4,7 @@ title: Autonomous Golf Cart
 modal-id: 1
 date: 2023-06-26
 img: golfcart.jpg
+img2: TorsionTester.png
 alt: image-alt
 project-date: June 2022
 client: ECE Department
