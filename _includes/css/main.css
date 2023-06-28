@@ -194,8 +194,8 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
-    background: #{{ site.color.primary }};
+    background: #fff;
+    color: #{{ site.color.primary }};
 }
 
 @media(max-width:767px) {
@@ -267,6 +267,8 @@ section.success {
 
 /* Flexbox Portfolio Grid */
 @media (min-width: 640px) {
+    color: #fff;
+    background: #{{ site.color.primary }};
     .portfolio-flex-grid .portfolio-flex-row {
       display: flex;
       flex-flow: row wrap;
