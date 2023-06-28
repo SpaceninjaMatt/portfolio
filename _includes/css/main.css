@@ -8,7 +8,7 @@ body {
     overflow-x: hidden;
 }
 
-div {
+divRow {
     display: flex;
     justify-content: space-between;
 }
