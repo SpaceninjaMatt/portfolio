@@ -249,6 +249,7 @@ section.successAbout {
     text-align: center;
     font-size: 20px;
     color: #fff;
+    background: #{{ site.color.primary }};
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
@@ -272,8 +273,7 @@ section.successAbout {
 
 /* Flexbox Portfolio Grid */
 @media (min-width: 640px) {
-    color: #fff;
-    background: #{{ site.color.primary }};
+    
     .portfolio-flex-grid .portfolio-flex-row {
       display: flex;
       flex-flow: row wrap;
