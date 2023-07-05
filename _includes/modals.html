@@ -22,12 +22,6 @@
                 <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
               </div>
             {% endif %}
-            {% if post.video}
-            <video width="320" height="240" controls>
-              <source src="img/portfolio/{{ post.video }}" type="video/mp4">
-            Your browser does not support the video tag.
-            </video>
-            {% endif %}
             {% if post.description %}
             <p><strong>Project Description: </strong>{{ post.description }}</p>
             <p><strong>Outcome: </strong>{{ post.outcome }}</p>
