@@ -3,7 +3,7 @@ layout: default
 title: Autonomous Golf Cart
 modal-id: 1
 date: 2023-06-26
-img: drive-by-wire-1.png
+img: drive-by-wire-1.jpg
 img1: drive-by-wire-3.jpg
 img2: golfcart.jpg
 alt: image-alt
