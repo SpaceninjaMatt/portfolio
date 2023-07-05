@@ -32,6 +32,16 @@
             <p><strong>Project Description: </strong>{{ post.description }}</p>
             <p><strong>Outcome: </strong>{{ post.outcome }}</p>
             {% endif %}
+            {% if post.Newslink %}
+            <a href="{{ post.Newslink }}" class="btn btn-default">
+              To see article
+            </a>
+            {% endif %}
+            {% if post.Researchlink %}
+            <a href="{{ post.Researchlink }}" class="btn btn-default">
+              To see publication
+            </a>
+            {% endif %}
             {% if post.link %}
             <a href="{{ post.link }}" class="btn btn-default">
               For More Info
