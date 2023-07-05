@@ -4,6 +4,9 @@ title: Torsion Tester
 modal-id: 2
 date: 2023-06-26
 img: TorsionTester.png
+img1: TorsionTester1.jpg
+img2: TorsionData.png
+video: TorsionVideo.mp4
 alt: image-alt
 project-date: Spring 2023
 client: Mechanical Lab Design

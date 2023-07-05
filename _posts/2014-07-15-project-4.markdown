@@ -4,6 +4,8 @@ title: 3D Print Locker
 modal-id: 4
 date: 2023-06-26
 img: 3DPrintLocker.png
+img1:
+img2:
 alt: image-alt
 project-date: Summer 23
 client: Florida Polytechnic Makerspace

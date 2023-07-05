@@ -4,6 +4,8 @@ title: Lakeland Police Department Bracket
 modal-id: 3
 date: 2023-06-26
 img: LPD.jpg
+img1: Bracket-right.png
+img2: interface.png
 alt: image-alt
 project-date: Summer 2023
 client: Lakeland Police Department

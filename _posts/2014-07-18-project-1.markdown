@@ -3,7 +3,9 @@ layout: default
 title: Autonomous Golf Cart
 modal-id: 1
 date: 2023-06-26
-img: golfcart.jpg
+img: drive-by-wire-1.png
+img1: drive-by-wire-3.jpg
+img2: golfcart.jpg
 alt: image-alt
 project-date: June 2022
 client: ECE Department
