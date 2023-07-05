@@ -1,0 +1,17 @@
+---
+layout: default
+title: Autonomous Golf Cart
+modal-id: 1
+date: 2023-06-26
+img: drive-by-wire-1.png
+img1: drive-by-wire-3.jpg
+img2: golfcart.jpg
+alt: image-alt
+project-date: June 2022
+client: ECE Department
+category: Electrical/Computer Engineering
+link: https://www.researchgate.net/publication/370621855_Drive-By-Wire_Conversion_of_an_Electric_Golf-Cart_for_Self-Driving_Vehicles_Research
+description: Full drive by wire conversion using a RPi and Arduino.
+outcome: Learned Python, got practical wiring experince, learned how to communicate ideas with non STEM people to have parts made, large mechatronics project.
+
+---
