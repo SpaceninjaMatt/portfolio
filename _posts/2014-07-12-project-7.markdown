@@ -1,0 +1,18 @@
+---
+layout: default
+title: Drone to Payload Mount
+modal-id: 6
+date: 2023-01-31
+img: mount.jpg
+img1: mount2.png
+img2: mount3.jpg
+video: 
+alt: image-alt
+project-date: April 2023
+client: NASA Microgravity Study Capstone Teams
+category: Mechanical Engineering
+link:
+description: I was tasked with creating a payload release device for the NASA Microgravity Study Capstone project. I communicated with the drone rental company, the drone manufacturer, and other colleges participating in the completion to create a device that fits everyone's needs. 
+outcome: I learned how to use a radio control remote and reviser to toggle parabolic release switches and successfully dropped all payloads without issue. The device worked so well; it will continue to be used for the following years.  
+
+---
