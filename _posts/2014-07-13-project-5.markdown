@@ -2,7 +2,7 @@
 layout: default
 title: PID Control of Cart and Pendulum MATLAB
 modal-id: 5
-date: 2023-01-31
+date: 2023-06-26
 img: pendulum.png
 img1: PIDcart.png
 img2: PIDGraph.png
