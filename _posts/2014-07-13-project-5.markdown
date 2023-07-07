@@ -12,7 +12,7 @@ project-date: November 2022
 client: Mechatronics Systems
 category: Mechanical Engineering
 link:
-Repolink: https://github.com/SpaceninjaMatt/MATLAB_PID
+Repolink: https://github.com/m-decicco/MATLAB_PID
 description: I used ODE45 and MATLAB to simulate an inverted pendulum and cart kinematic system. I then created a PID function to stabilize the cart to inputted forces and tuned the values for the best response using the Ziegler–Nichols Tuning method.
 outcome: I learned how to use the ODE45 function in MATLAB and got familiar with creating PID functions and tuning them. 
 

@@ -11,7 +11,7 @@ alt: image-alt
 project-date: Spring 2023
 client: Mechanical Lab Design
 category: Mechanical Engineering
-Repolink: https://github.com/SpaceninjaMatt/Torsion-Tester
+Repolink: https://github.com/m-decicco/Torsion-Tester
 description: This was a group project for our Mechanical Lab Design class, where the goal was to create a mechanical property tester that could be used for labs. My team created a torsion tester to find the sheer modulus and the ultimate stress of 3D-printed samples. Sydney Wickett was in charge of documentation and post-data processing, Zach Kaiser was in charge of the gear assembly, and I was in charge of designing the structure, wiring, writing the Arduino Script, and MATLAB serial handling given my experience.
 outcome: Overall, we surpassed the project measures of performance and created a product for less than $100 that is reliable and easy to use. Using the NASA project methodology, we designed, produced, and documented our product as a group. As an individual, I got to practice creating effective scripts to manage multiple sensors and learned how to open serial ports in MATLAB, read and store data. I also got to use different fabrication methods since I used 2020 aluminum extrusion, acrylic, and 3D printing. In the end, we broke aluminum samples, and other teams had no issues running experiments with our product. 
 ---
