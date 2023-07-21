@@ -10,6 +10,6 @@ alt: image-alt
 project-date: Summer 2023
 client: Lakeland Police Department
 category: Design and Production
-description: I created a bracket for Lakeland Police Department that allows them to attach their Axon Signal Sidearm modules to their Alien Gear Duty Holsters. Currently, hold a Provisional Patent.
-outcome: I got to see what being an engineer in the real world is like communicating ideas and testing designs, the legal process of working with lawyers for liability and obtaining a Provisional Patent.
+description: Lakeland Police Department commissioned me to create a bracket for their Axon Signal Side Arm modules to mount to their new Alien Gear Rapid Force Duty Holsters since they want to use the holsters this, but a mounting system doesn't currently exist.
+outcome: I went through the design process, starting with a meeting with the client and getting ideas, then creating initial prototypes to show them, finalizing a design, creating a quote, and working with the Florida Polytechnic legal team to get a provisional patent for my invention and am producing 300 of the mounts for the entire department.
 ---
