@@ -12,10 +12,7 @@ client: Lakeland Police Department
 category: Design and Production
 description: As part of an exciting collaboration with the Lakeland Police Department, I was entrusted with the task of creating a specialized bracket to seamlessly integrate their Axon Signal Side Arm modules with the newly acquired Alien Gear Rapid Force Duty Holsters. The department sought a reliable mounting system to enable the use of these holsters during the upcoming fall season, and with no existing solution available, I was eager to take on the challenge.
 outcome: I embarked on a comprehensive design journey, commencing with an in-depth consultation with the client to understand their requirements and vision. Armed with valuable insights, I proceeded to develop initial prototypes, presenting them to the client for feedback and refinement. Throughout the iterative design process, I meticulously honed the bracket's specifications to ensure optimal functionality and compatibility with both the Axon Signal Side Arm modules and the Alien Gear Rapid Force Duty Holsters.
-
 After arriving at the final design, I meticulously crafted a detailed quote that aligned with the Lakeland Police Department's budget and expectations. Recognizing the innovation and uniqueness of the mounting solution, I sought legal protection for my invention and collaborated with the esteemed Florida Polytechnic legal team to secure a provisional patent.
-
 Upon receiving approval and ensuring the necessary legal safeguards were in place, I proceeded to scale up production. With utmost precision and quality assurance, I successfully manufactured 350 of the bespoke mounts, meeting the demands of the entire Lakeland Police Department.
-
 The project not only achieved its primary objective of providing a tailored mounting solution but also showcased my ability to collaborate with clients, navigate legal complexities, and deliver tangible results. It has been an immensely rewarding experience to contribute to the safety and efficiency of law enforcement personnel through this innovative product.
 ---
