@@ -110,7 +110,7 @@ header .intro-text .degree {
 }
 
 header .intro-text .graduation {
-    font-size: .75em;
+    font-size: 1.25em;
     font-weight: 300;
 }
 header .intro-text .skills {
@@ -130,6 +130,10 @@ header .intro-text .skills {
 
     header .intro-text .degree {
         font-size: 1.75em;
+    }
+
+    header .intro-text .gradutation {
+        font-size: 1.25em;
     }
 
     header .intro-text .skills {
