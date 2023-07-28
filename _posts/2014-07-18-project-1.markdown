@@ -14,8 +14,8 @@ link:
 Repolink: https://github.com/m-decicco/Golf-Cart
 Newslink: https://floridapoly.edu/news/articles/2022/11/110122-drive-by-wire-golf-cart.php
 Researchlink: https://www.researchgate.net/publication/370621855_Drive-By-Wire_Conversion_of_an_Electric_Golf-Cart_for_Self-Driving_Vehicles_Research
-description: Entire drive-by-wire conversion of an electric golf cart using a Raspberry Pi and an Arduino for Self-Driving Vehicles Research.
-outcome: "As part of my Self-Driving Vehicles Research project, I successfully completed an entire drive-by-wire conversion of an electric golf cart utilizing a Raspberry Pi and an Arduino. This project provided me with a valuable opportunity to learn and apply Python programming, where I became proficient in using essential libraries such as PySimpleGUI for developing the touchscreen interface and PyGame for interfacing with the Xbox remote.
+description: "&nbsp;&nbsp;&nbsp;&nbsp;Entire drive-by-wire conversion of an electric golf cart using a Raspberry Pi and an Arduino for Self-Driving Vehicles Research."
+outcome: "&nbsp;&nbsp;&nbsp;&nbsp;As part of my Self-Driving Vehicles Research project, I successfully completed an entire drive-by-wire conversion of an electric golf cart utilizing a Raspberry Pi and an Arduino. This project provided me with a valuable opportunity to learn and apply Python programming, where I became proficient in using essential libraries such as PySimpleGUI for developing the touchscreen interface and PyGame for interfacing with the Xbox remote.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;To achieve precise control and smooth operation, I integrated an Arduino Nano to control the stepper, which allowed for better management of step pulses and seamless integration with the absolute encoder. Leveraging timers and interrupts protocols, I ensured that the stepper consistently maintained the correct angle for optimized performance.
 <br><br>
