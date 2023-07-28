@@ -26,4 +26,5 @@ outcome: "&nbsp;&nbsp;&nbsp;&nbsp;As part of my Self-Driving Vehicles Research p
 &nbsp;&nbsp;&nbsp;&nbsp;Throughout the course of this project, I had the privilege of collaborating with esteemed professors, graduate students, and fabrication specialists. The experience not only enhanced my technical skills but also provided valuable insights into working effectively within a team and navigating complex research-oriented projects.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Overall, this drive-by-wire conversion project for the electric golf cart showcases my proficiency in Python programming, Raspberry Pi, and Arduino integration, as well as my ability to tackle multifaceted challenges and implement practical solutions in the realm of self-driving vehicles research."
+teammates: Dr. Toker, Dr. Reza, Mike Kalman, Sam De Oliveira, Hunter Stopford, Lev Nikitin
 ---

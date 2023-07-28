@@ -22,4 +22,5 @@ outcome: "&nbsp;&nbsp;&nbsp;&nbsp;The results of our collaborative efforts were 
 &nbsp;&nbsp;&nbsp;&nbsp;In the testing phase, our product performed exceptionally well, even when subjected to rigorous experiments involving aluminum samples. Feedback from other teams confirmed the reliability and user-friendliness of our mechanical property tester, as they encountered no issues while running experiments with it.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Overall, this project showcased not only my technical expertise but also my ability to collaborate effectively within a team. The experience has undoubtedly enriched my skill set and strengthened my passion for mechanical engineering and product development."
+teammates: Sydney Wickett, Zach Kaiser
 ---

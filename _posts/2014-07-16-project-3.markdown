@@ -18,4 +18,5 @@ outcome: "&nbsp;&nbsp;&nbsp;&nbsp;I embarked on a comprehensive design journey, 
 &nbsp;&nbsp;&nbsp;&nbsp;Upon receiving approval and ensuring the necessary legal safeguards were in place, I proceeded to scale up production. With utmost precision and quality assurance, I successfully manufactured 350 of the bespoke mounts, meeting the demands of the entire Lakeland Police Department.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;The project not only achieved its primary objective of providing a tailored mounting solution but also showcased my ability to collaborate with clients, navigate legal complexities, and deliver tangible results. It has been an immensely rewarding experience to contribute to the safety and efficiency of law enforcement personnel through this innovative product."
+teammates: Mike Kalman
 ---
