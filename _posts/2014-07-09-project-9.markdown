@@ -1,0 +1,28 @@
+---
+layout: default
+title: Flashing Blue light for Radar Sign
+modal-id: 9
+date: 2023-06-26
+img: PDSign1.jpg
+img1: PDSign2.jpg
+img2: PDSign3.jpg
+video: PDSignV.mp4
+alt: image-alt
+project-date: July 2023
+client: Florida Poly PD
+category: Mechanical Engineering/ECE
+link:
+Repolink: https://github.com/m-decicco/PolyPD
+description: "&nbsp;&nbsp;&nbsp;&nbsp;As part of a collaboration with the Florida Poly Police department, I was tasked with enhancing their radar speed sign to effectively deter speeding. The existing system, which utilized flashing yellow lights, had proven insufficient in curbing speeding behavior. The challenge was to find a solution that would reliably address this issue and contribute to improved road safety."
+
+outcome: "&nbsp;&nbsp;&nbsp;&nbsp;Within a remarkably tight timeline of just 5 days, I successfully completed the project, delivering a functional and efficient solution. The first day was dedicated to understanding the behavior of the radar speed sign and determining how to achieve the desired flashing effect reliably. We explored various avenues, attempting to locate a suitable signal wire that could be easily integrated, but unfortunately, no straightforward solution presented itself.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;On the subsequent day, I meticulously evaluated different approaches, considering options such as current detection, tapping into serial data, and utilizing light as a signaling method. After careful analysis, the light-based approach emerged as the most viable choice, as it minimized the risk of potential sign malfunctions due to ammeter failures. Utilizing serial data was not feasible due to a lack of documentation, further affirming our decision.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;With the chosen approach in mind, I devoted the following day to design and solder a custom circuit. This circuit incorporated two light sensors for redundancy, an Arduino nano, and a 12v removable relay, facilitating the smooth operation of the flashing blue light. I also designed and 3D printed a mount to securely install all the components. Subsequently, I focused on code development and comprehensive testing to ensure seamless functionality.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;The project provided me with invaluable practical experience in mechatronics, encompassing the entire product development cycle in a condensed timeframe. Additionally, I gained valuable insights into anticipating failure modes and implementing measures to create a reliable system. Throughout the process, I meticulously selected readily available components, considering the project's time constraints, and successfully delivered an effective solution.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;This project not only showcased my technical expertise and problem-solving skills but also demonstrated my ability to deliver under pressure and meet tight deadlines. Working closely with the Florida Poly Police department allowed me to contribute to a meaningful cause by enhancing road safety and encouraging responsible driving behavior."
+teammates: Mike Kalman
+---
