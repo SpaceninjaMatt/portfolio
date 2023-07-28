@@ -32,6 +32,9 @@
             <p align="left" ><strong font-size="18px">Project Description: </strong><br>{{ post.description }}</p>
             <p align="left" ><strong font-size="18px">Outcome: </strong><br>{{ post.outcome }}</p>
             {% endif %}
+            {% if post.References %}
+            <p align="left" ><strong>References: </strong><br>{{ post.References }}</p>
+            {% endif %}
             {% if post.Newslink %}
             <a href="{{ post.Newslink }}" class="btn btn-default">
               To see article
