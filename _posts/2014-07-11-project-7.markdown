@@ -11,11 +11,16 @@ project-date: Summer 23
 client: Florida Polytechnic Makerspace
 category: Mechanical Engineering
 description: "In response to the challenges faced by students needing to collect prints at unconventional hours, I embarked on a creative endeavor. The inspiration struck me during a trip to an Amazon Locker; realizing the potential to address this issue, I envisioned developing a small-scale version of an automated pickup system. This innovative project aimed to allow students to access their prints at any time, thereby streamlining the process.
+
 To kickstart the project, I promptly set to work and created a proof-of-concept single-cell prototype. With a compelling vision in hand, I presented the idea to my supervisor, seeking additional funding to materialize the concept. Securing the necessary resources, including overcoming the unexpectedly high costs of acrylic, allowed me to proceed with full-fledged development.
+
 Over the course of a few weeks, I employed Solidworks to meticulously design a 16-cell version of the system. The final design featured a combination of five 100x200 mm cells, nine 200x200 mm cells (as used in the prototype), and two 100x300 mm cells specifically catering to filament and long print drop-offs."
 outcome: "The completion of this project brought with it valuable learning experiences and achievements. One of the highlights was successfully implementing compliant 3D printed components for the latches, which significantly enhanced the system's functionality and durability.
+
 Moreover, as I delved into the complexities of the project, I found myself working with a massive SolidWorks assembly consisting of approximately 230 components. This undertaking presented a substantial learning curve, allowing me to expand my skills and confidence in handling complex engineering designs.
+
 A pivotal aspect of the project was integrating EEPROM memory on an Arduino board. By doing so, the system could retain cell object states even in the event of a power outage, ensuring a seamless user experience and reducing any inconvenience caused by disruptions.
 Ultimately, the most fulfilling aspect of this endeavor was solving a real-world problem and creating a robust and user-friendly product. The automated pickup system I developed will continue to serve the student community well beyond my graduation, leaving a lasting impact on campus life.
+
 This project showcases my ability to ideate, design, and implement innovative solutions, solidifying my passion for engineering and problem-solving. I am excited to add this achievement to my portfolio, as it reflects my dedication to making a meaningful difference through technology."
 ---

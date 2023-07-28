@@ -12,8 +12,12 @@ project-date: April 2023
 client: NASA Microgravity Study Capstone Teams
 category: Mechanical Engineering
 link:
-description: "For the NASA Microgravity Study Capstone project, I undertook the challenge of developing a sophisticated payload release device. My primary responsibility was to create a mechanism that would seamlessly release payloads in a microgravity environment. Throughout the project, I collaborated closely with various stakeholders, including the drone rental company, the drone manufacturer, and other participating colleges. My aim was to ensure the device met the diverse needs and requirements of all parties involved in the competition."
+description: "For the NASA Microgravity Study Capstone project, I undertook the challenge of developing a sophisticated payload release device. My primary responsibility was to create a mechanism that would seamlessly release payloads in a microgravity environment. 
+
+Throughout the project, I collaborated closely with various stakeholders, including the drone rental company, the drone manufacturer, and other participating colleges. My aim was to ensure the device met the diverse needs and requirements of all parties involved in the competition."
 outcome: "During the project, I acquired valuable skills in handling radio control remotes and receivers, which were crucial for the successful operation of the payload release device. Through meticulous testing and refinement, I achieved a flawless execution of the parabolic release switches, allowing for seamless and accurate payload drops in the microgravity setting.
+
 As a testament to the device's exceptional performance, all payloads were released without any issues, showcasing its reliability and effectiveness. The success of the device was acknowledged by the project stakeholders, and it has been selected for continued use in the subsequent years of the competition.
+
 This project not only provided me with technical knowledge but also enhanced my ability to collaborate and communicate effectively with different teams. It has been a rewarding experience contributing to the NASA Microgravity Study Capstone project, and I look forward to further opportunities to apply my skills and knowledge in future endeavors."
 ---
