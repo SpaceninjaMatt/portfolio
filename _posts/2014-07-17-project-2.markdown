@@ -12,10 +12,10 @@ project-date: Spring 2023
 client: Mechanical Lab Design
 category: Mechanical Engineering
 Repolink: https://github.com/m-decicco/Torsion-Tester
-description: "During our Mechanical Lab Design class, my team embarked on an ambitious group project with the aim of developing a cost-effective mechanical property tester for laboratory use. Our specific focus was on creating a torsion tester capable of determining the sheer modulus and ultimate stress of 3D-printed samples. 
+description: "&nbsp;&nbsp;&nbsp;&nbsp;During our Mechanical Lab Design class, my team embarked on an ambitious group project with the aim of developing a cost-effective mechanical property tester for laboratory use. Our specific focus was on creating a torsion tester capable of determining the sheer modulus and ultimate stress of 3D-printed samples. 
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;The responsibilities were distributed among the team members: Sydney Wickett handled documentation and post-data processing, Zach Kaiser was in charge of the gear assembly, while I took on the significant tasks of designing the structure, wiring, writing the Arduino Script, and managing MATLAB serial handling, leveraging my prior experience."
-outcome: "The results of our collaborative efforts were nothing short of exceptional. Our final product not only met but exceeded the project's performance metrics while remaining within a budget of less than $100. Following the established NASA project methodology, we successfully designed, produced, and comprehensively documented our innovative mechanical property tester.
+outcome: "&nbsp;&nbsp;&nbsp;&nbsp;The results of our collaborative efforts were nothing short of exceptional. Our final product not only met but exceeded the project's performance metrics while remaining within a budget of less than $100. Following the established NASA project methodology, we successfully designed, produced, and comprehensively documented our innovative mechanical property tester.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;From a personal standpoint, this project provided me with valuable opportunities for growth and learning. I honed my skills in creating efficient scripts capable of managing multiple sensors, and I gained hands-on experience in handling serial ports in MATLAB, effectively reading, and storing data. Additionally, the project allowed me to explore and implement various fabrication methods, such as incorporating 2020 aluminum extrusion, acrylic, and 3D printing in the design.
 <br><br>

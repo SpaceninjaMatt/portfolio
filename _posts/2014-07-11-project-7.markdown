@@ -10,12 +10,12 @@ alt: image-alt
 project-date: Summer 23
 client: Florida Polytechnic Makerspace
 category: Mechanical Engineering
-description: "In response to the challenges faced by students needing to collect prints at unconventional hours, I embarked on a creative endeavor. The inspiration struck me during a trip to an Amazon Locker; realizing the potential to address this issue, I envisioned developing a small-scale version of an automated pickup system. This innovative project aimed to allow students to access their prints at any time, thereby streamlining the process.
+description: "&nbsp;&nbsp;&nbsp;&nbsp;In response to the challenges faced by students needing to collect prints at unconventional hours, I embarked on a creative endeavor. The inspiration struck me during a trip to an Amazon Locker; realizing the potential to address this issue, I envisioned developing a small-scale version of an automated pickup system. This innovative project aimed to allow students to access their prints at any time, thereby streamlining the process.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;To kickstart the project, I promptly set to work and created a proof-of-concept single-cell prototype. With a compelling vision in hand, I presented the idea to my supervisor, seeking additional funding to materialize the concept. Securing the necessary resources, including overcoming the unexpectedly high costs of acrylic, allowed me to proceed with full-fledged development.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Over the course of a few weeks, I employed Solidworks to meticulously design a 16-cell version of the system. The final design featured a combination of five 100x200 mm cells, nine 200x200 mm cells (as used in the prototype), and two 100x300 mm cells specifically catering to filament and long print drop-offs."
-outcome: "The completion of this project brought with it valuable learning experiences and achievements. One of the highlights was successfully implementing compliant 3D printed components for the latches, which significantly enhanced the system's functionality and durability.
+outcome: "&nbsp;&nbsp;&nbsp;&nbsp;The completion of this project brought with it valuable learning experiences and achievements. One of the highlights was successfully implementing compliant 3D printed components for the latches, which significantly enhanced the system's functionality and durability.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Moreover, as I delved into the complexities of the project, I found myself working with a massive SolidWorks assembly consisting of approximately 230 components. This undertaking presented a substantial learning curve, allowing me to expand my skills and confidence in handling complex engineering designs.
 <br><br>
