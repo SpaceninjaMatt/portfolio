@@ -20,14 +20,15 @@
             
             {% if post.img1 %}
               <div class="row"> 
+                <figcaption>{{ post.img1_cap }}</figcaption>
                 <img src="img/portfolio/{{ post.img1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                <span class="skills">{{ post.img1_cap }}</span>
+                <figcaption>{{ post.img2_cap }}</figcaption>
                 <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                <span class="skills">{{ post.img2_cap }}</span>
               </div>
             {% endif %}
             {% if post.video %}
             <video width= 80% controls>
+              <figcaption>{{ post.video_cap }}</figcaption>
               <source src="img/portfolio/{{ post.video }}" type="video/mp4">
               Your browser does not support the video tag.
             </video>

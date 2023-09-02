@@ -4,11 +4,11 @@ title: Torsion Tester
 modal-id: 2
 date: 2023-06-26
 img: TorsionTester.png
-img_cap: Solidworks Assembly View
+img_cap: Solidworks assembly view
 img1: TorsionTester1.jpg
-img1_cap: Real Life View
+img1_cap: Real life view
 img2: TorsionData.png
-img2_cap: The Data After Processing
+img2_cap: The data after processing
 video: TorsionVideo.mp4
 video_cap: A screen record of the MATLAB view showing real-time data collection
 alt: image-alt
