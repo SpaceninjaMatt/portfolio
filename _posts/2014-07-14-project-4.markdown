@@ -4,8 +4,11 @@ title: 3D printing to help injured turtles
 modal-id: 4
 date: 2023-06-26
 img: 3d-turtle-shells-main.jpg
+img_cap: Me holding a broken shell
 img1: ShellsSeveral.jpg
+img1_cap: Shells recently taken from 3D printers
 img2: 3d-turtle-shells-inuse.jpg
+img2_cap: Shells being used for a class
 alt: image-alt
 project-date: December 2022
 client: Swamp Girl Adventures

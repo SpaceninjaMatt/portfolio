@@ -4,8 +4,11 @@ title: Drone to Payload Mount
 modal-id: 6
 date: 2023-06-26
 img: mount.jpg
+img_cap: The device and remote
 img1: mount2.png
+img1_cap: The Solidworks assembly of the device
 img2: mount3.jpeg
+img2_cap: Me under the drone connecting a project to my device
 video: 
 alt: image-alt
 project-date: April 2023

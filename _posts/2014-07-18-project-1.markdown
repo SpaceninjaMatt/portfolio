@@ -4,9 +4,11 @@ title: Autonomous Golf Cart
 modal-id: 1
 date: 2023-06-26
 img: drive-by-wire-1.jpg
-img1_cap: Dr. Toker, Mr. Kalman, and Matthew DeCicco on the cart
+img_cap: Dr. Toker, Mr. Kalman, and Matthew DeCicco on the cart
 img1: drive-by-wire-3.jpg
+img1_cap: Touchscreen GUI with drive modes and the cart wiring harness that I created
 img2: golfcart.jpg
+img2_cap: Visual of the pneumatic system and solar charging system
 alt: image-alt
 project-date: June 2022
 client: ECE Department

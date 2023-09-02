@@ -4,9 +4,13 @@ title: PID Control of Cart and Pendulum MATLAB
 modal-id: 5
 date: 2023-06-26
 img: pendulum.png
+img_cap: The system being modeled
 img1: PIDcart.png
+img1_cap: The system shown in a MATLAB figure
 img2: PIDGraph.png
+img2_cap: Graphs showing the forces and errors of the system
 video: PID-edit.mp4
+video_cap: Video showing the code running and dynamic cart graphing
 alt: image-alt
 project-date: November 2022
 client: Mechatronics Systems

@@ -4,9 +4,13 @@ title:  Interplanetary Mission Design using Hohmann Transfer
 modal-id: 8
 date: 2023-04-20
 img: Hohman-Transfer.jpg
+img_cap: Hohman Transfer Diagram
 img1: Orbital-Elements.jpg
+img1_cap: Orbital Elements Diagram
 img2: Orbital-Matlab.png
+img2_cap: The Code
 video: OrbitalProject.mp4
+video_cap: The Code, but more thorough
 alt: image-alt
 project-date: April 2023
 client: Orbital Mechanics course (EAS 4505)

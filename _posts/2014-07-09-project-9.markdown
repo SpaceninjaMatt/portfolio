@@ -4,9 +4,13 @@ title: Flashing Blue light for Radar Sign
 modal-id: 9
 date: 2023-06-26
 img: PDSign1.jpg
+img_cap: The sign lit up and mounted
 img1: PDSign2.jpg
+img1_cap: The two circuits I created. Left is the smart one that senses light and turns on the LED; the right is the on/off toggle
 img2: PDSign3.jpg
+img3_cap: The circuit in situe
 video: PDSignV.mp4
+video_cap: The sign in action (I don't normally speed, this is for testing only)!
 alt: image-alt
 project-date: July 2023
 client: Florida Poly PD
