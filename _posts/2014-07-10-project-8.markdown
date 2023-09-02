@@ -4,9 +4,9 @@ title:  Interplanetary Mission Design using Hohmann Transfer
 modal-id: 8
 date: 2023-04-20
 img: Hohman-Transfer.jpg
-img_cap: Hohman Transfer Diagram
+img_cap: Hohman Transfer Diagram [1]
 img1: Orbital-Elements.jpg
-img1_cap: Orbital Elements Diagram
+img1_cap: Orbital Elements Diagram [2]
 img2: Orbital-Matlab.png
 img2_cap: The Code
 video: OrbitalProject.mp4
@@ -29,5 +29,5 @@ outcome: "&nbsp;&nbsp;&nbsp;&nbsp;We employed MATLAB to conduct the necessary ca
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;This project not only enhanced our theoretical understanding of orbital mechanics but also strengthened our practical skills in MATLAB programming. The results demonstrate our ability to plan and analyze complex interplanetary missions while considering crucial factors such as fuel efficiency and time constraints."
 teammates: Sydney Wickett
-References: Curtis, H.D. (2020). Orbital Mechanics for Engineering Students (4th ed.). Elsevier. <br>Sydney Wickett for being a phenomenal partner and also for the orbital elements drawing
+References: [1]Curtis, H.D. (2020). Orbital Mechanics for Engineering Students (4th ed.). Elsevier. <br>[2]Sydney Wickett for being a phenomenal partner and also for the orbital elements drawing
 ---
