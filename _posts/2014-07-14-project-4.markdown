@@ -11,7 +11,7 @@ project-date: December 2022
 client: Swamp Girl Adventures
 category: Mechanical Engineering
 Newslink: https://floridapoly.edu/news/articles/2023/01/013122-3d-turtle-shells.php
-description: "&nbsp;&nbsp;&nbsp;&nbsp;In this innovative endeavor, I leveraged the power of additive manufacturing to create fractured turtle shells, utilizing a 3D scan of an intact shell as the foundation. These fabricated shells played a pivotal role in an interactive educational class aimed at teaching individuals how to effectively repair damaged turtle shells. By offering this valuable knowledge and support, we provided injured turtles with a renewed opportunity to heal and thrive."
+description: "&nbsp;&nbsp;&nbsp;&nbsp;I employed additive manufacturing techniques to produce fragmented turtle shells, using a 3D scan of an undamaged shell as the basis. These synthetic shells assumed a crucial role in an educational program focused on instructing individuals in the proficient mending of injured turtle shells. Through the dissemination of this valuable expertise and assistance, we facilitated the rehabilitation and flourishing of injured turtles."
 outcome: "&nbsp;&nbsp;&nbsp;&nbsp;Throughout the course of the project, I successfully produced a total of 30 3D-printed turtle shells within a single week. This task allowed me to collaborate with large polygon count 3D scans, honing my expertise in handling complex digital models. 
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Moreover, I had the privilege of contributing to the educational aspect of the project, guiding and empowering people to develop the skills needed to mend injured turtle shells effectively. Witnessing the positive impact on both the turtles and the participants made this project a truly rewarding experience."

@@ -4,6 +4,7 @@ title: Autonomous Golf Cart
 modal-id: 1
 date: 2023-06-26
 img: drive-by-wire-1.jpg
+img1_cap: Dr. Toker, Mr. Kalman, and Matthew DeCicco on the cart
 img1: drive-by-wire-3.jpg
 img2: golfcart.jpg
 alt: image-alt
@@ -15,11 +16,11 @@ Repolink: https://github.com/m-decicco/Golf-Cart
 Newslink: https://floridapoly.edu/news/articles/2022/11/110122-drive-by-wire-golf-cart.php
 Researchlink: https://www.researchgate.net/publication/370621855_Drive-By-Wire_Conversion_of_an_Electric_Golf-Cart_for_Self-Driving_Vehicles_Research
 description: "&nbsp;&nbsp;&nbsp;&nbsp;Entire drive-by-wire conversion of an electric golf cart using a Raspberry Pi and an Arduino for Self-Driving Vehicles Research."
-outcome: "&nbsp;&nbsp;&nbsp;&nbsp;As part of my Self-Driving Vehicles Research project, I successfully completed an entire drive-by-wire conversion of an electric golf cart utilizing a Raspberry Pi and an Arduino. This project provided me with a valuable opportunity to learn and apply Python programming, where I became proficient in using essential libraries such as PySimpleGUI for developing the touchscreen interface and PyGame for interfacing with the Xbox remote.
+outcome: "&nbsp;&nbsp;&nbsp;&nbsp;In the context of my Self-Driving Vehicles Research initiative, I successfully executed a comprehensive drive-by-wire conversion on an electric golf cart, employing a Raspberry Pi and Arduino platform. This endeavor afforded me the opportunity to acquire and apply advanced Python programming skills, specializing in key libraries such as PySimpleGUI for the development of the touchscreen interface and PyGame for interfacing with the Xbox remote.
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;To achieve precise control and smooth operation, I integrated an Arduino Nano to control the stepper, which allowed for better management of step pulses and seamless integration with the absolute encoder. Leveraging timers and interrupts protocols, I ensured that the stepper consistently maintained the correct angle for optimized performance.
+&nbsp;&nbsp;&nbsp;&nbsp;In order to achieve precise control and seamless operation, I seamlessly integrated an Arduino Nano to govern the stepper motor, thereby enhancing step pulse management and ensuring seamless synchronization with the absolute encoder. Employing timer and interrupt protocols, I consistently maintained the stepper motor at the correct angle to optimize performance.
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Throughout the project, I gained extensive experience in wiring and circuitry as I incorporated various components, including pneumatics and other sensors. The final result yielded three distinct control modes. The manual mode allowed the golf cart to function conventionally, while the Xbox mode empowered users to control all aspects of the cart using an Xbox One remote. Additionally, I implemented a Serial mode that enabled users to run computationally intensive algorithms on their laptop or PC and transmit commands to the Raspberry Pi.
+&nbsp;&nbsp;&nbsp;&nbsp;Over the course of the project, I accumulated substantial expertise in electrical wiring and circuitry while integrating a variety of components, including pneumatics and sensors. The project's culmination resulted in three distinct control modes: a manual mode for conventional operation, an Xbox mode for comprehensive control via an Xbox One remote, and a Serial mode enabling users to execute computationally intensive algorithms on their laptop or PC while transmitting commands to the Raspberry Pi.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;To ensure safety and reliability, I incorporated fail-safe mechanisms that automatically halt cart movement if new commands are not received within 0.1 seconds. This precautionary measure guarantees that abrupt disconnections of the remote or serial device do not lead to potential hazards.
 <br><br>
