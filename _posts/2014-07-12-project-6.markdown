@@ -15,7 +15,7 @@ project-date: April 2023
 client: NASA Microgravity Study Capstone Teams
 category: Mechanical Engineering
 link:
-description: "&nbsp;&nbsp;&nbsp;&nbsp;During my involvement in the NASA Microgravity Study Capstone project, I assumed the responsibility of engineering an advanced payload release system. My core task encompassed the design and implementation of a precision mechanism capable of autonomously discharging payloads from an aerial drone positioned at an altitude of 500 feet.
+description: "&nbsp;&nbsp;&nbsp;&nbsp;During my involvement in the NASA Microgravity Study Capstone project, I assumed the responsibility of engineering an advanced payload release system. My core task encompassed the design and implementation of a precision mechanism capable of remotely discharging payloads from an aerial drone positioned at an altitude of 500 feet.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Throughout the project's duration, I engaged in extensive collaboration with the drone rental service, the drone manufacturer, and the teams of other universities. The primary objective of this collaborative effort was to ascertain that the developed device effectively addressed the multifaceted demands and specifications of all parties participating in the competition."
 outcome: "&nbsp;&nbsp;&nbsp;&nbsp;During the project, I acquired valuable expertise in managing radio control remotes and receivers, which played a pivotal role in ensuring the operation of the payload release mechanism. My extensive testing and refinement led to the flawless execution of the parabolic release switches, enabling precise payload drops from the drone.
