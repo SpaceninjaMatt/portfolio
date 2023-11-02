@@ -14,18 +14,18 @@ link: https://teams.microsoft.com/l/channel/19%3a15d65e01b85943fb8ca917bf1afea2e
 project-date: Summer 23
 client: Florida Polytechnic Makerspace
 category: Mechanical Engineering
-description: "&nbsp;&nbsp;&nbsp;&nbsp;In response to the challenges faced by students requiring access to prints outside conventional hours, I embarked on an engineering initiative. The inspiration arose during a visit to an Amazon Locker, where I recognized the potential to address this issue. I conceptualized the development of a scaled-down automated pickup system to facilitate 24/7 access to prints for students, thus optimizing the process.
+description: "&nbsp;&nbsp;&nbsp;&nbsp;In response to the challenges faced by students requiring access to prints outside conventional hours, I embarked on an engineering initiative. The inspiration came during a visit to an Amazon Locker, where I recognized the potential to address this issue. I conceptualized the development of a scaled-down automated pickup system to facilitate 24/7 access to prints for students, thus optimizing the process.
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;To initiate the project, I swiftly commenced work and crafted a proof-of-concept single-cell prototype. Armed with a compelling vision, I presented the concept to my supervisor, seeking additional funding for its realization. Securing the necessary resources, including addressing unforeseen high acrylic costs, enabled the progression to full-scale development.
+&nbsp;&nbsp;&nbsp;&nbsp;To initiate the project, I made a proof-of-concept single-cell prototype; I then presented the concept to my supervisor and he approved the project.
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Over a span of several weeks, I meticulously designed a 16-cell version of the system using Solidworks. The final design comprised five 100x200 mm cells, nine 200x200 mm cells (as featured in the prototype), and two 100x300 mm cells tailored specifically to accommodate filament and lengthy print deliveries."
-outcome: "&nbsp;&nbsp;&nbsp;&nbsp;The successful completion of this project yielded invaluable learning experiences and notable accomplishments. A significant achievement included the proficient implementation of compliant 3D printed components for the latches, thereby significantly enhancing the system's functionality and durability.
+&nbsp;&nbsp;&nbsp;&nbsp;Over a span of several weeks, I designed a 16-cell version of the system using Solidworks. The final design comprised five 100x200 mm cells, nine 200x200 mm cells (as featured in the prototype), and two 100x300 mm cells made specifically to accommodate filament and lengthy prints."
+outcome: "&nbsp;&nbsp;&nbsp;&nbsp;The successful completion of this project yielded invaluable learning experiences and notable accomplishments. A significant achievement included the implementation of compliant 3D printed components for the latches, thereby significantly enhancing the system's functionality and durability.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Furthermore, this endeavor involved the management of a complex SolidWorks assembly, comprising approximately 230 components. This task presented a substantial learning curve, fostering the expansion of my expertise and confidence in handling intricate engineering designs.
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;A pivotal facet of this project entailed the integration of EEPROM memory onto an Arduino board. This strategic addition allowed the system to retain cell object states, even in the event of a power outage, ensuring uninterrupted user experiences and mitigating disruptions.
+&nbsp;&nbsp;&nbsp;&nbsp;An important aspect of this project entailed using the integrated EEPROM memory of the Arduino board. This strategic addition allowed the system to retain cell object states when we swapped batteries.
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Most notably, this endeavor culminated in the resolution of a tangible real-world problem and the creation of a robust, user-friendly product. The automated pickup system developed will continue to serve the student community well beyond my graduation, leaving a lasting impact on campus life.
+&nbsp;&nbsp;&nbsp;&nbsp;Most notably, this project was inspired by a tangible real-world problem which led to the creation of a robust, user-friendly product. The automated pickup system developed will continue to serve the student community well beyond my graduation, leaving a lasting impact on campus life.
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;This project serves as a testament to my proficiency in conceiving, designing, and implementing innovative solutions, solidifying my commitment to engineering and problem-solving. I eagerly anticipate adding this achievement to my portfolio, as it exemplifies my dedication to effecting meaningful technological advancements."
+&nbsp;&nbsp;&nbsp;&nbsp;This project serves as a testament to my proficiency in conceiving, designing, and implementing innovative solutions, solidifying my commitment to engineering and problem-solving."
 ---

@@ -18,4 +18,5 @@ description: "&nbsp;&nbsp;&nbsp;&nbsp;I employed additive manufacturing techniqu
 outcome: "&nbsp;&nbsp;&nbsp;&nbsp;Throughout the course of the project, I successfully produced a total of 30 3D-printed turtle shells within a single week. This task allowed me to collaborate with large polygon count 3D scans, honing my expertise in handling complex digital models. 
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Moreover, I had the privilege of contributing to the educational aspect of the project, guiding and empowering people to develop the skills needed to mend injured turtle shells effectively. Witnessing the positive impact on both the turtles and the participants made this project a truly rewarding experience."
+teammates: Carson Ham
 ---
