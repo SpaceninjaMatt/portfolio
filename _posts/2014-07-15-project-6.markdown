@@ -10,7 +10,7 @@ img1_cap: The two circuits I created. Left is the smart one that senses light an
 img2: PDSign3.jpg
 img3_cap: The circuit in situe
 video: PDSignV.mp4
-video_cap: The sign in action (I don't normally speed, this is for testing only)!
+video_cap: The sign operating as intended
 alt: image-alt
 project-date: July 2023
 client: Florida Poly PD
