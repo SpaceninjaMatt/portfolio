@@ -28,4 +28,5 @@ outcome: "&nbsp;&nbsp;&nbsp;&nbsp;We started by analyzing the longest louver. Fo
 &nbsp;&nbsp;&nbsp;&nbsp;Under hurricane force winds, considering the fluctuating load, the equivalent alternating force (σar) is calculated as 15.7 MPa. Despite the increased force, the analysis still suggests infinite life due to the distribution of load among four bracket pieces contacting the pin. This results in low total contact stresses, confirming the mechanical soundness of the bracket and pin system under both normal and extreme loading conditions.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;The project served as a great application of knowledge learned in both the Design and Analysis of Machine Components and Finite Element Analysis. It aimed to understand, analyze, and verify mechanical components and systems."
+teammates: Pedro Osorio
 ---
