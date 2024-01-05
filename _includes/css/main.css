@@ -268,8 +268,6 @@ section.successAbout {
     z-index: 2;
 }
 
-
-
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
@@ -294,6 +292,7 @@ section.successAbout {
       flex-flow: row wrap;
       align-items: stretch;
       justify-content: space-between;
+<<<<<<< HEAD
 
     .caption {
         position: relative;
@@ -318,6 +317,8 @@ section.successAbout {
 
     /* Style for mobile (title is visible above the picture) */
     
+=======
+>>>>>>> parent of f5b7083 (Captions on IOS)
     }
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 49%;
