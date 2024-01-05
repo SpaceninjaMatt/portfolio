@@ -276,6 +276,16 @@ section.successAbout {
     }
 }
 
+@media (max-width: 767px) {
+    .caption-content {
+        display: block; /* Show the title by default on smaller screens */
+    }
+    
+    .portfolio-item:hover .caption-content {
+        display: block; /* Ensure the title is still visible on hover for consistency */
+    }
+    }
+
 /* Flexbox Portfolio Grid */
 @media (min-width: 640px) {
     
@@ -307,15 +317,7 @@ section.successAbout {
     }
 
     /* Style for mobile (title is visible above the picture) */
-    @media (max-width: 767px) {
-    .caption-content {
-        display: block; /* Show the title by default on smaller screens */
-    }
     
-    .portfolio-item:hover .caption-content {
-        display: block; /* Ensure the title is still visible on hover for consistency */
-    }
-    }
     }
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 49%;
