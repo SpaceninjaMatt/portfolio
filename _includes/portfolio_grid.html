@@ -13,14 +13,15 @@
       <div class="portfolio-flex-item portfolio-item">
         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
           <div class="caption">
-            <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
             <div class="caption-content">
               <span class="hover-text">{{ post.title }}</span>
             </div>
           </div>
+          <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
         </a>
       </div>
       {% endfor %}
     </div>
   </div>
 </section>
+
