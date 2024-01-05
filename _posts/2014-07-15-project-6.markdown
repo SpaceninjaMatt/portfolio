@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flashing Blue light for Radar Sign
+title: Flashing Blue Light for FLPoly Radar Sign
 modal-id: 6
 date: 2023-06-26
 img: PDSign1.jpg
