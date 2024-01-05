@@ -8,7 +8,7 @@ img_cap: SolidWorks Model of the IST Louver System
 img1: Louver3.jpg
 img1_cap: The IST Louver System
 img2: Louver2.png
-img2_cap: Simulation of High Winds on the Louver Assembly
+img2_cap: Simulation of Gravity on the Louver Assembly
 alt: image-alt
 Repolink: 
 link: 
