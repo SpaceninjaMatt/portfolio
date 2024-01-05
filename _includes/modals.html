@@ -19,12 +19,20 @@
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             
             {% if post.img1 %}
-              <div class="row"> 
-                <figcaption>{{ post.img1_cap }}</figcaption>
-                <img src="img/portfolio/{{ post.img1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                <figcaption>{{ post.img2_cap }}</figcaption>
-                <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            <div class="row">
+              <div class="col-md-6">
+                <figure>
+                  <figcaption>{{ post.img1_cap }}</figcaption>
+                  <img src="img/portfolio/{{ post.img1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                </figure>
               </div>
+              <div class="col-md-6">
+                <figure>
+                  <figcaption>{{ post.img2_cap }}</figcaption>
+                  <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                </figure>
+              </div>
+            </div>
             {% endif %}
             {% if post.video %}
             <video width= 80% controls>
