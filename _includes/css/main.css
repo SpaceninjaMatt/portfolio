@@ -268,6 +268,8 @@ section.successAbout {
     z-index: 2;
 }
 
+
+
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
@@ -282,6 +284,16 @@ section.successAbout {
       flex-flow: row wrap;
       align-items: stretch;
       justify-content: space-between;
+      
+      .caption-content span {
+        display: none; /* Hide the title by default */
+      }
+      
+        @media (max-width: 767px) {
+        .caption-content span {
+            display: block; /* Show the title on screens with a maximum width of 767px or smaller */
+        }
+        }
     }
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 49%;
