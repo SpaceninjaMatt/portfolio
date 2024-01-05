@@ -7,8 +7,8 @@ img: Locker-IRL.jpg
 img_cap: Fully loaded locker
 img1: 3DPrintLocker.png
 img1_cap: Solidworks assembly of the locker
-img2: Prototype-Locker.jpg
-img2_cap: Single Cell Prototype
+img2: LockerAPP.png
+img2_cap: Bluetooth app running on Windows OS
 alt: image-alt
 Repolink: https://github.com/m-decicco/3DPrintLocker
 link: https://teams.microsoft.com/l/channel/19%3a15d65e01b85943fb8ca917bf1afea2ef%40thread.tacv2/Pickup%2520Locker?groupId=99e94daf-6370-449c-a7bc-31db42f2650d&tenantId=8d84067d-9ad7-4572-9b10-133d36462aaa
@@ -24,7 +24,7 @@ outcome: "&nbsp;&nbsp;&nbsp;&nbsp;The successful completion of this project yiel
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Furthermore, this endeavor involved the management of a complex SolidWorks assembly, comprising approximately 230 components. This task presented a substantial learning curve, fostering the expansion of my expertise and confidence in handling intricate engineering designs.
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;An important aspect of this project entailed using the integrated EEPROM memory of the Arduino board. This strategic addition allowed the system to retain cell object states when we swapped batteries.
+&nbsp;&nbsp;&nbsp;&nbsp;An important aspect of this project entailed using the integrated EEPROM memory of the Arduino board. This strategic addition allowed the system to retain cell object states when we swapped batteries. Using the Arduino R4 gave me the opportunity to create a Bluetooth Low Energy Python app that can interface with the locker system remotely. Another perk of the R4 is the built-in RTC, which, combined with an SD card module, allows me to track locker states over time, enabling more strategic lab staffing.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Most notably, this project was inspired by a tangible real-world problem which led to the creation of a robust, user-friendly product. The automated pickup system developed will continue to serve the student community well beyond my graduation, leaving a lasting impact on campus life.
 <br><br>
