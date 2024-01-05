@@ -1,0 +1,31 @@
+---
+layout: default
+title: Louver System Analysis
+modal-id: 8
+date: 2023-12-6
+img: Louver1.png
+img_cap: SolidWorks Model of the IST Louver System
+img1: Louver3.jpg
+img1_cap: The IST Louver System
+img2: Louver2.png
+img2_cap: Simulation of High Winds on the Louver Assembly
+alt: image-alt
+Repolink: 
+link: 
+project-date: Fall 23
+client: Design and Analysis of Machine Components (EML 4500)
+category: Mechanical Engineering
+description: "&nbsp;&nbsp;&nbsp;&nbsp;For our Design and Analysis of Machine Components course final project, we decided to do a failure analysis on the iconic Florida Polytechnic University Louver System. Using information from the Florida Poly facilities team and Atlantic Hydrulits, we modeled the system for the case of the longest Louver."
+
+outcome: "&nbsp;&nbsp;&nbsp;&nbsp;We started by analyzing the longest louver. For the hand calculations, it was assumed to be a 61.8-inch-long aluminum alloy cylinder with a thickness of 0.75 inches. The louver was analyzed under static loading conditions at a 58 m/s wind gust, equivalent to a category 3 hurricane, which is not uncommon in this part of Florida. Calculating the maximum shear and distortion energy, the factors of safety (FOS) are found to be 8.28 and 9.55, respectively.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Using ANSYS, the entire system was analyzed under static loading of just weight and a category three hurricane. Under gravity alone at a horizontal position, the minimum safety factor (MSS FOS) is 4.93. In the case of a Category 3 hurricane wind gust, the system will fail with a maximum equivalent stress of around 630 MPa in the structural steel fulcrum bracket, exceeding the yield strength of structural steel. Running the simulation for all wind speeds and plotting them shows that the louver can remain open until around 80 miles per hour gusts.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;The analysis of a bracket and pin system involves dynamic loading analysis and fatigue methods to estimate factors such as the factor of safety, lifecycle span, and fatigue strength. The materials and dimensions are specified for a bracket and pin made of 1018 carbon steel. Stress calculations are conducted under normal and extreme weather conditions.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Under normal conditions, using the spherical contact stress method, the bracket experiences a force of 233452.4 N. The calculated half-width (b) is 0.567 cm. The principal stresses at a specific location are σ1 = -0.13 MPa, σ2 = -0.73 MPa, σ3 = -0.77 MPa, and maximum shear stress (τmax) is 0.32 MPa. The rotary test specimen indicates a fatigue factor of safety suggesting infinite life.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Under hurricane force winds, considering the fluctuating load, the equivalent alternating force (σar) is calculated as 15.7 MPa. Despite the increased force, the analysis still suggests infinite life due to the distribution of load among four bracket pieces contacting the pin. This results in low total contact stresses, confirming the mechanical soundness of the bracket and pin system under both normal and extreme loading conditions.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;The project served as a great application of knowledge learned in both the Design and Analysis of Machine Components and Finite Element Analysis. It aimed to understand, analyze, and verify mechanical components and systems."
+---
