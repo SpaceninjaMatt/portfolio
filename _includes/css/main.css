@@ -284,16 +284,38 @@ section.successAbout {
       flex-flow: row wrap;
       align-items: stretch;
       justify-content: space-between;
-      
-      .caption-content span {
-        display: none; /* Hide the title by default */
-      }
-      
-        @media (max-width: 767px) {
-        .caption-content span {
-            display: block; /* Show the title on screens with a maximum width of 767px or smaller */
-        }
-        }
+
+    .caption {
+        position: relative;
+    }
+
+    .caption-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7); /* Adjust the background color and opacity as needed */
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    display: none; /* Hide the title by default */
+    }
+
+    /* Show the title on hover for both desktop and mobile */
+    .portfolio-item:hover .caption-content {
+    display: block;
+    }
+
+    /* Style for mobile (title is visible above the picture) */
+    @media (max-width: 767px) {
+    .caption-content {
+        display: block; /* Show the title by default on smaller screens */
+    }
+    
+    .portfolio-item:hover .caption-content {
+        display: block; /* Ensure the title is still visible on hover for consistency */
+    }
+    }
     }
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 49%;
