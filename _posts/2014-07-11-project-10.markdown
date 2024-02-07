@@ -1,0 +1,17 @@
+---
+layout: default
+title: Stability Analysis of Boeing 747
+modal-id: 10
+date: 2023-06-26
+img: Poster_Presentation_MD_SW.png
+img_cap: The results on a poster
+alt: image-alt
+project-date: December 2023
+client: Flight Performance Mechanics
+category: Aerospace Engineering
+link:
+Repolink: 
+description: "&nbsp;&nbsp;&nbsp;&nbsp;The goal of this project was to determine the stability of a Boeing 747 under various perturbations."
+outcome: "&nbsp;&nbsp;&nbsp;&nbsp;Using the aircraft equations of motion, the 747 stability was solved in MATLAB. The results are shown on the poster and the code can be seen in the repository."
+teammates: Sydney Wickett
+---
