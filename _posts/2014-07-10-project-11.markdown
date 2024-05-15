@@ -15,8 +15,8 @@ alt: image-alt
 project-date: "2023-2024"
 client: Patrick Space Force Base
 category: Capstone
-link:
-Repolink: https://github.com/m-decicco/747Stability
+link: https://floridapoly.edu/news/articles/2024/04/040124-capstone-patrickafb-camera-cleaner.php
+Repolink: 
 description: "&nbsp;&nbsp;&nbsp;&nbsp;Patrick Space Force Base located in Melbourne FL, currently utilizing more than 100 cameras to act as surveillance on the base with plans of adding more cameras. Since Patrick’s Space Force Base is located on the coast, salt spray is landing on the camera lenses and drying leaving a salt residue. The salt builds up hindering their surveillance capabilities and the current solution employed by Patrick Space Force Base is having facility members clean the easily accessible cameras using a bucket and a ladder while inaccessible cameras await rainfall to clean them. These methods are time-consuming and not feasible as there could be periods of time where some vital cameras are not cleaned.
 <br><br> 
 &nbsp;&nbsp;&nbsp;&nbsp;Based off our initial description of the project and research done by the team, a solution path was identified that aligned with Patrick Space Force’s needs. The solution devised utilized collected rainwater using adhesion, a UVC LED to sanitize stagnant water, solar panels to be electronically isolated, all contained within a modular housing. After meetings with Maj Robinson and TSgt Lam and visiting the base to talk to MSgt Ford, a security personnel on base, a better understanding of their needs was determined, and our alpha confirmed we moved on to iterative development to complete the beta."
