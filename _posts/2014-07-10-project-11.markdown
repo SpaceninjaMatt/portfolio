@@ -8,7 +8,7 @@ img_cap: Render Of Device With No Door
 img1: Camera_Cleaner_3.png
 img1_cap: Exploded View Of Device
 img2: Camera_Cleaner_2.JPG
-img2_cap: Exploded View Of Pellet Dispenser
+img2_cap: Render Of Pellet Dispenser
 video: Camera_Cleaner.mp4
 video_cap: Demonstration of Device Collecting Water and Cleaning
 alt: image-alt
