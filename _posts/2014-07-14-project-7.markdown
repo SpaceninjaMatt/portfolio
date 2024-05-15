@@ -15,18 +15,18 @@ link: https://teams.microsoft.com/l/channel/19%3a15d65e01b85943fb8ca917bf1afea2e
 project-date: Summer 23
 client: Florida Polytechnic Makerspace
 category: Mechanical Engineering
-description: "&nbsp;&nbsp;&nbsp;&nbsp;In response to the challenges faced by students requiring access to prints outside conventional hours, I embarked on an engineering initiative. The inspiration came during a visit to an Amazon Locker, where I recognized the potential to address this issue. I conceptualized the development of a scaled-down automated pickup system to facilitate 24/7 access to prints for students, thus optimizing the process.
+description: "&nbsp;&nbsp;&nbsp;&nbsp;To address the need for student access to prints beyond conventional hours, I initiated an engineering project inspired by the functionality of Amazon Lockers. The goal was to develop a scaled-down automated pickup system enabling 24/7 access to prints, thereby streamlining the process.
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;To initiate the project, I made a proof-of-concept single-cell prototype; I then presented the concept to my supervisor and he approved the project.
+&nbsp;&nbsp;&nbsp;&nbsp;I began with a proof-of-concept single-cell prototype and, upon receiving approval from my supervisor, advanced to the next phase of the project.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Over a span of several weeks, I designed a 16-cell version of the system using Solidworks. The final design comprised five 100x200 mm cells, nine 200x200 mm cells (as featured in the prototype), and two 100x300 mm cells made specifically to accommodate filament and lengthy prints."
-outcome: "&nbsp;&nbsp;&nbsp;&nbsp;The successful completion of this project yielded invaluable learning experiences and notable accomplishments. A significant achievement included the implementation of compliant 3D printed components for the latches, thereby significantly enhancing the system's functionality and durability.
+outcome: "&nbsp;&nbsp;&nbsp;&nbsp;The project's successful completion resulted in significant learning outcomes and technical achievements. Notably, the integration of compliant 3D-printed components for the latches enhanced the system's functionality and durability.
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, this endeavor involved the management of a complex SolidWorks assembly, comprising approximately 230 components. This task presented a substantial learning curve, fostering the expansion of my expertise and confidence in handling intricate engineering designs.
+&nbsp;&nbsp;&nbsp;&nbsp;The project also involved managing a complex SolidWorks assembly consisting of approximately 230 components. This process provided a substantial learning experience, expanding my expertise and confidence in handling intricate engineering designs.
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;An important aspect of this project entailed using the integrated EEPROM memory of the Arduino board. This strategic addition allowed the system to retain cell object states when we swapped batteries. Using the Arduino R4 gave me the opportunity to create a Bluetooth Low Energy Python app that can interface with the locker system remotely. Another perk of the R4 is the built-in RTC, which, combined with an SD card module, allows me to track locker states over time, enabling more strategic lab staffing.
+&nbsp;&nbsp;&nbsp;&nbsp;A critical aspect of the project was utilizing the integrated EEPROM memory of the Arduino board, enabling the system to retain cell object states during battery swaps. The use of the Arduino R4 facilitated the development of a Bluetooth Low Energy Python application for remote system interfacing. Additionally, the R4's built-in RTC, in conjunction with an SD card module, allowed for tracking locker states over time, optimizing lab staffing strategies.
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Most notably, this project was inspired by a tangible real-world problem which led to the creation of a robust, user-friendly product. The automated pickup system developed will continue to serve the student community well beyond my graduation, leaving a lasting impact on campus life.
+&nbsp;&nbsp;&nbsp;&nbsp;This project addressed a tangible real-world problem, resulting in the creation of a robust and user-friendly automated pickup system that will benefit the student community long after my graduation.
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;This project serves as a testament to my proficiency in conceiving, designing, and implementing innovative solutions, solidifying my commitment to engineering and problem-solving."
+&nbsp;&nbsp;&nbsp;&nbsp;This project demonstrates my proficiency in conceiving, designing, and implementing innovative solutions, reinforcing my commitment to engineering and problem-solving."
 ---
