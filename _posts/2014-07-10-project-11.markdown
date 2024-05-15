@@ -15,7 +15,7 @@ alt: image-alt
 project-date: "2023-2024"
 client: Patrick Space Force Base
 category: Capstone
-link: https://floridapoly.edu/news/articles/2024/04/040124-capstone-patrickafb-camera-cleaner.php
+Newslink: https://floridapoly.edu/news/articles/2024/04/040124-capstone-patrickafb-camera-cleaner.php
 Repolink: 
 description: "&nbsp;&nbsp;&nbsp;&nbsp;Patrick Space Force Base located in Melbourne FL, currently utilizing more than 100 cameras to act as surveillance on the base with plans of adding more cameras. Since Patrick’s Space Force Base is located on the coast, salt spray is landing on the camera lenses and drying leaving a salt residue. The salt builds up hindering their surveillance capabilities and the current solution employed by Patrick Space Force Base is having facility members clean the easily accessible cameras using a bucket and a ladder while inaccessible cameras await rainfall to clean them. These methods are time-consuming and not feasible as there could be periods of time where some vital cameras are not cleaned.
 <br><br> 
