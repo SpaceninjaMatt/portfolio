@@ -1,0 +1,27 @@
+---
+layout: default
+title: Automated Camera Cleaner
+modal-id: 11
+date: 2023-06-26
+img: Camera_Cleaner_1.JPG
+img_cap: Render Of Device With No Door
+img1: Camera_Cleaner_3.png
+img1_cap: Exploded View Of Device
+img2: Camera_Cleaner_2.JPG
+img2_cap: Exploded View Of Pellet Dispenser
+video: Camera_Cleaner.mp4
+video_cap: Demonstration of Device Collecting Water and Cleaning
+alt: image-alt
+project-date: "2023-2024"
+client: Patrick Space Force Base
+category: Capstone
+link:
+Repolink: https://github.com/m-decicco/747Stability
+description: "&nbsp;&nbsp;&nbsp;&nbsp;Patrick Space Force Base located in Melbourne FL, currently utilizing more than 100 cameras to act as surveillance on the base with plans of adding more cameras. Since Patrick’s Space Force Base is located on the coast, salt spray is landing on the camera lenses and drying leaving a salt residue. The salt builds up hindering their surveillance capabilities and the current solution employed by Patrick Space Force Base is having facility members clean the easily accessible cameras using a bucket and a ladder while inaccessible cameras await rainfall to clean them. These methods are time-consuming and not feasible as there could be periods of time where some vital cameras are not cleaned.
+<br><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;Based off our initial description of the project and research done by the team, a solution path was identified that aligned with Patrick Space Force’s needs. The solution devised utilized collected rainwater using adhesion, a UVC LED to sanitize stagnant water, solar panels to be electronically isolated, all contained within a modular housing. After meetings with Maj Robinson and TSgt Lam and visiting the base to talk to MSgt Ford, a security personnel on base, a better understanding of their needs was determined, and our alpha confirmed we moved on to iterative development to complete the beta."
+outcome: "&nbsp;&nbsp;&nbsp;&nbsp;Starting with simple CAD designs and simulations we designed, built, and tested a prototype automated camera cleaning system. In doing this we were able to meet most of the requirements given by PSFB. The main requirement was that it could automatically clean the camera lens. This was accomplished with a water pump to clean the lens with rainwater collected by the roof geometry, and a microchip to schedule the cleaning, based on the time from a clock or the IR sensor which allowed external activation of the system. We were able to keep the system electrically isolated by employing solar panels and batteries, because of this we meet these requirements the system was set to need 0 human interaction per year.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;While we were able to meet most of the requirements given there were 2 given, but not heavily emphasized that we were unable to meet. This was using all American parts and making it last 3-5 years. The reason for both shortcomings was money and time.  We didn’t have the time to research and test how long the system would last, nor the money to buy all American parts and the materials that would likely be able to last 3-5 years."
+teammates: "Derek Olszowy, Joseph Davis, Chris Conti, Leslie Ngo, Addam Ben-Abdallah, Emma Scott"
+---
